@@ -1,2 +1,2 @@
 flask==0.12   # Known XSS vulnerability
-pyjwt==1.7.1  # JWT signature bypass vulnerability
+pyjwt==2.10.1  # JWT signature bypass vulnerability
